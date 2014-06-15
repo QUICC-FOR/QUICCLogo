@@ -3,17 +3,16 @@ QUICCLogo
 
 Logo of the QUICC-FOR project
 
-### Colors
+## Colors
 
-![alt tag](/Logo_QUICCFOR-Colors-HighReso.png)
+![HighResoColors](/Logo_QUICCFOR-Colors-HighReso.png)
 
-![alt tag](/Logo_QUICCFOR-Colors-LowReso.png)
+![LowResoColors](/Logo_QUICCFOR-Colors-LowReso.png)
 
-### Black
+## Black
 
+![HighResoBlack](/Logo_QUICCFOR-Black-HighReso.png)
 
-![alt tag](/Logo_QUICCFOR-Black-HighReso.png)
+![LowResoColors](/Logo_QUICCFOR-Black-LowReso.png)
 
-![alt tag](/Logo_QUICCFOR-Black-LowReso.png)
-
-**Also available in white in the present folder**
+### Also available in white in the present folder
