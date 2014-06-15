@@ -1,7 +1,5 @@
-QUICCLogo
+QUICC-FOR Logo
 =========
-
-Logo of the QUICC-FOR project
 
 ## Colors
 
