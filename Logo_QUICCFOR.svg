@@ -15,7 +15,10 @@
    inkscape:version="0.48.4 r9939"
    width="990"
    height="765"
-   sodipodi:docname="Logo_QUICCFOR.svg">
+   sodipodi:docname="Logo_QUICCFOR.svg"
+   inkscape:export-filename="/home/steve/Documents/GitHub/QUICCWeb/QUICCWeb/static/Logo/Logo_QUICCFORTop.png"
+   inkscape:export-xdpi="74.975883"
+   inkscape:export-ydpi="74.975883">
   <metadata
      id="metadata3045">
     <rdf:RDF>
@@ -88,7 +91,7 @@
        id="linearGradient4217-5"
        xlink:href="#linearGradient4189-1-6"
        inkscape:collect="always"
-       gradientTransform="matrix(2.1664522,0,0,2.1664522,-43.705237,75.828265)" />
+       gradientTransform="matrix(1.95984,0,0,1.95984,-43.141703,116.04026)" />
     <linearGradient
        id="linearGradient4189-1-6">
       <stop
@@ -121,8 +124,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.67927003"
-     inkscape:cx="529.23939"
-     inkscape:cy="425.48545"
+     inkscape:cx="647.41893"
+     inkscape:cy="380.43868"
      inkscape:window-x="49"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -159,91 +162,109 @@
   </sodipodi:namedview>
   <text
      xml:space="preserve"
-     style="font-size:140.35902404999998794px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#454837;fill-opacity:1;stroke:none;font-family:Sans"
-     x="38.207054"
-     y="376.04245"
+     style="font-size:126.9731369px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#454837;fill-opacity:1;stroke:none;font-family:Sans"
+     x="30.958702"
+     y="387.62335"
      id="text3823"
-     sodipodi:linespacing="125%"><tspan
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/steve/Documents/GitHub/QUICCWeb/QUICCWeb/static/Logo/Logo_QUICCFORTop.png"
+     inkscape:export-xdpi="17.441883"
+     inkscape:export-ydpi="17.441883"><tspan
        sodipodi:role="line"
        id="tspan3825"
-       x="38.207054"
-       y="376.04245"
+       x="30.958702"
+       y="387.62335"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#454837;fill-opacity:1;font-family:Avenir;-inkscape-font-specification:Avenir">QU CC  <tspan
    style="fill:#454837;fill-opacity:1"
    id="tspan4048">F</tspan>  R</tspan></text>
   <text
      sodipodi:linespacing="125%"
      id="text3916-5"
-     y="447.73428"
-     x="155.75534"
-     style="font-size:33.70505141999999665px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#454837;fill-opacity:1;stroke:none;font-family:Sans"
+     y="439.81317"
+     x="99.302032"
+     style="font-size:30.49063683px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#454837;fill-opacity:1;stroke:none;font-family:Sans"
      xml:space="preserve"><tspan
-       style="font-size:30.89629744999999872px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#454837;fill-opacity:1;font-family:Avenir;-inkscape-font-specification:Avenir"
-       id="tspan3920-4"
-       y="447.73428"
-       x="155.75534"
-       sodipodi:role="line">Quantifying and mapping impact of climate change </tspan><tspan
-       style="font-size:30.89629744999999872px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#454837;fill-opacity:1;font-family:Avenir;-inkscape-font-specification:Avenir"
-       y="486.35464"
-       x="155.75534"
-       sodipodi:role="line"
-       id="tspan5099">on the forests productivity in eastern Canada</tspan><tspan
        id="tspan3922-0"
-       y="524.97504"
-       x="155.75534"
-       sodipodi:role="line" /></text>
+       y="439.81317"
+       x="99.302032"
+       sodipodi:role="line">Quantifying and mapping the impact of climate change </tspan><tspan
+       y="477.92645"
+       x="99.302032"
+       sodipodi:role="line"
+       id="tspan3024">on forest productivity in Eastern Canada</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:140.45965576px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#96bc49;fill-opacity:1;stroke:none;font-family:Sans"
-     x="635.21661"
-     y="381.62564"
+     style="font-size:127.06417084px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#96bc49;fill-opacity:1;stroke:none;font-family:Sans"
+     x="571.10779"
+     y="393.69193"
      id="text3846"
      sodipodi:linespacing="125%"
-     transform="scale(1.0214538,0.9789968)"><tspan
+     transform="scale(1.0214538,0.9789968)"
+     inkscape:export-filename="/home/steve/Documents/GitHub/QUICCWeb/QUICCWeb/static/Logo/Logo_QUICCFORTop.png"
+     inkscape:export-xdpi="17.441883"
+     inkscape:export-ydpi="17.441883"><tspan
        sodipodi:role="line"
        id="tspan3848"
-       x="635.21661"
-       y="381.62564">O</tspan></text>
+       x="571.10779"
+       y="393.69193">O</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:147.89247131px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#96bc49;fill-opacity:1;stroke:none;font-family:Sans"
-     x="248.06396"
-     y="384.15134"
+     style="font-size:133.78813171px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#96bc49;fill-opacity:1;stroke:none;font-family:Sans"
+     x="220.8764"
+     y="395.96158"
      id="text3854"
      sodipodi:linespacing="125%"
-     transform="scale(1.0211365,0.979301)"><tspan
+     transform="scale(1.0211365,0.979301)"
+     inkscape:export-filename="/home/steve/Documents/GitHub/QUICCWeb/QUICCWeb/static/Logo/Logo_QUICCFORTop.png"
+     inkscape:export-xdpi="17.441883"
+     inkscape:export-ydpi="17.441883"><tspan
        sodipodi:role="line"
        id="tspan3856"
-       x="248.06396"
-       y="384.15134">I</tspan></text>
+       x="220.8764"
+       y="395.96158">I</tspan></text>
   <path
      style="fill:#454837;fill-opacity:1;stroke:none"
-     d="m 518.22419,387.64326 c 19.65934,-26.04344 23.03279,-62.84126 24.51839,-91.69474 l -7.5748,0.39867 c 7.24942,24.78616 -2.57513,68.90018 -19.13634,86.71134 -15.59729,4.17538 -6.40483,11.62007 2.19275,4.58473 z"
+     d="m 465.19713,398.1178 c 17.78445,-23.55971 20.83618,-56.84816 22.1801,-82.94991 l -6.8524,0.36064 c 6.55805,22.42234 -2.32954,62.32925 -17.31133,78.44178 -14.10979,3.77718 -5.79401,10.51188 1.98363,4.14749 z"
      id="path4287"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
+     sodipodi:nodetypes="ccccc"
+     inkscape:export-filename="/home/steve/Documents/GitHub/QUICCWeb/QUICCWeb/static/Logo/Logo_QUICCFORTop.png"
+     inkscape:export-xdpi="17.441883"
+     inkscape:export-ydpi="17.441883" />
   <path
      style="fill:#96bc49;fill-opacity:1;stroke:none"
-     d="m 485.89514,257.1572 -27.90712,-29.10312 c -17.47761,-16.56206 -24.85247,-34.31937 -24.31903,-62.59164 5.30822,-8.67509 24.8462,1.12845 33.88719,3.18938 18.41023,21.15727 33.01591,68.05509 53.42218,87.30936 z"
+     d="m 435.95127,280.07605 -25.24565,-26.32759 c -15.81079,-14.98255 -22.48232,-31.04637 -21.99975,-56.62234 4.80198,-7.84776 22.47664,1.02083 30.6554,2.88521 16.65447,19.13953 29.86722,61.56475 48.32737,78.98276 z"
      id="path4166"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccc" />
+     sodipodi:nodetypes="cccccc"
+     inkscape:export-filename="/home/steve/Documents/GitHub/QUICCWeb/QUICCWeb/static/Logo/Logo_QUICCFORTop.png"
+     inkscape:export-xdpi="74.946426"
+     inkscape:export-ydpi="74.946426" />
   <path
-     style="fill:#96bc49;fill-opacity:1;stroke:url(#linearGradient4217-5);stroke-width:2.16645217"
-     d="m 591.33067,259.31914 27.90711,-29.10312 c 17.47762,-16.56207 24.85248,-34.31937 24.31903,-62.59164 -5.30822,-8.6751 -24.84619,1.12844 -33.88719,3.18938 -18.41023,21.15727 -33.01591,68.05508 -53.42218,87.30936 z"
+     style="fill:#96bc49;fill-opacity:1;stroke:url(#linearGradient4217-5);stroke-width:1.95984006"
+     d="m 531.33153,282.03181 25.24564,-26.32759 c 15.81079,-14.98256 22.48232,-31.04637 21.99975,-56.62234 -4.80198,-7.84777 -22.47664,1.02082 -30.65541,2.88521 -16.65447,19.13952 -29.86722,61.56474 -48.32736,78.98276 z"
      id="path4166-3"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccc" />
+     sodipodi:nodetypes="cccccc"
+     inkscape:export-filename="/home/steve/Documents/GitHub/QUICCWeb/QUICCWeb/static/Logo/Logo_QUICCFORTop.png"
+     inkscape:export-xdpi="74.946426"
+     inkscape:export-ydpi="74.946426" />
   <path
      style="fill:#454837;fill-opacity:1;stroke:none"
-     d="m 539.12047,280.44039 2.42012,5.44527 c -1.35758,13.46029 -1.29344,11.19968 -4.84024,13.31074 -13.85178,-1.95969 -36.91345,-26.44962 -54.45283,-46.58745 28.90672,-13.2153 51.06476,8.65337 56.87295,27.83144 z"
+     d="m 484.10056,301.13875 2.18931,4.92596 c -1.22811,12.1766 -1.17008,10.13158 -4.37863,12.04131 -12.53075,-1.7728 -33.39305,-23.92715 -49.25972,-42.14446 26.14991,-11.95497 46.19477,7.82811 51.44904,25.17719 z"
      id="path3040"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
+     sodipodi:nodetypes="ccccc"
+     inkscape:export-filename="/home/steve/Documents/GitHub/QUICCWeb/QUICCWeb/static/Logo/Logo_QUICCFORTop.png"
+     inkscape:export-xdpi="17.441883"
+     inkscape:export-ydpi="17.441883" />
   <path
      style="fill:#454837;fill-opacity:1;stroke:none"
-     d="m 540.37859,279.91702 -2.47928,5.57847 c 1.39077,13.78943 1.32506,11.47356 4.95861,13.63622 14.19051,-2.00761 37.81614,-27.09644 55.78444,-47.72673 -29.61361,-13.53847 -52.31354,8.86499 -58.26377,28.51204 z"
+     d="m 485.23869,300.66529 -2.24283,5.04646 c 1.25813,12.47435 1.19869,10.37934 4.48571,12.33575 12.83718,-1.81615 34.20966,-24.51228 50.46434,-43.17509 -26.78939,-12.24732 -47.32446,8.01955 -52.70722,25.79288 z"
      id="path3040-9"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
+     sodipodi:nodetypes="ccccc"
+     inkscape:export-filename="/home/steve/Documents/GitHub/QUICCWeb/QUICCWeb/static/Logo/Logo_QUICCFORTop.png"
+     inkscape:export-xdpi="17.441883"
+     inkscape:export-ydpi="17.441883" />
 </svg>
